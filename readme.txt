@@ -1,17 +1,17 @@
-=== WP WebP Uploader Pro ===
+=== WebP Uploader Pro ===
 Contributors: shubham-ralli
 Tags: webp, image optimization, convert images, wordpress media
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 6.7
 Requires PHP: 7.4
-Stable tag: 1.1
+Stable tag: 1.0
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Automatically converts uploaded images (JPG, PNG, GIF, BMP) to WebP format before storing them in the media library. Also replaces image URLs on the frontend to serve WebP when available.
+Converts uploaded images (JPG, PNG, GIF, BMP) to WebP before saving in the media library and replaces URLs for faster loading.
 
 == Description ==
-WP WebP Uploader Pro is a lightweight WordPress plugin that ensures your website loads faster by converting images to WebP format upon upload. It also replaces image URLs on the frontend, ensuring visitors get the optimized WebP version if available.
+WebP Uploader Pro is a lightweight WordPress plugin that ensures your website loads faster by converting images to WebP format upon upload. It also replaces image URLs on the frontend, ensuring visitors get the optimized WebP version if available.
 
 **Features:**
 * Automatic WebP conversion for JPG, PNG, GIF, and BMP
