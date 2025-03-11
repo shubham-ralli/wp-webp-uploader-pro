@@ -1,13 +1,14 @@
 <?php
 /**
- * Plugin Name: WP WebP Uploader Pro
+ * Plugin Name: WebP Uploader Pro
  * Description: Automatically converts uploaded images to WebP and replaces them in the media library.
  * Version: 1.0
  * Author: Shubham Ralli
  * Author URI: https://github.com/shubham-ralli
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: wp-webp-uploader-pro
+ * Text Domain: webp-uploader-pro
+ * Tested up to: 6.7
  */
 
 if (!defined('ABSPATH')) {
